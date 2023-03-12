@@ -1,0 +1,31 @@
+.ginecologia table {
+    background-color: #3d3b63;
+    font-size: 1em;
+    border: 2px solid #3d3b63;
+    text-align: justify;
+    cursor: pointer;
+}
+
+.ginecologia table > thead > tr> th{
+
+}
+
+.ginecologia table>tbody>tr>td{
+    border-bottom: 1px solid #3d3b63;
+    border-right: 2px solid white;
+}
+
+.ginecologia table > thead > tr > th{
+    border-bottom: 1px solid #3d3b63;
+    border-right: 2px solid white;
+    font-weight: 900;
+    font-size: 1.1em;
+    background-color: #3e3a88 !important;
+}
+
+.ginecologia table>tbody>tr>td:hover{
+    background-color: black;
+    position: relative;
+    border-radius: 20px;
+    transform: scale(1.01);
+}

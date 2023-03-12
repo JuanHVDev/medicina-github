@@ -1,0 +1,12 @@
+.table-view-table {
+    border: 3px solid
+}
+
+.btn button{
+    border: none;
+    border-radius: 10px;
+}
+
+.btn button:hover {
+    transform: scale(1.4);
+}

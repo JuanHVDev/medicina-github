@@ -1,0 +1,19 @@
+{
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "es-MX"
+  ],
+  "alwaysUpdateLinks": true,
+  "autoConvertHtml": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "promptDelete": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true
+}

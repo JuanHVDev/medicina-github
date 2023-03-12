@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Dracula for Obsidian",
+  "interfaceFontFamily": "Roboto Condensed",
+  "textFontFamily": "Roboto Condensed,Bebas Neue,Abyssinica SIL",
+  "monospaceFontFamily": "Cascadia Code",
+  "nativeMenus": true,
+  "baseFontSize": 12,
+  "enabledCssSnippets": [
+    "obsidian",
+    "tables"
+  ]
+}
